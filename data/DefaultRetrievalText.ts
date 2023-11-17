@@ -1,0 +1,1 @@
+export default 'Export data to db';
